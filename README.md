@@ -30,13 +30,6 @@ Discuss what you need to develop this project. This includes background informat
             <br />
             <sub><b>Eric Zhang</b></sub>
         </a>
-    </td>
-     <td align="center">
-        <a href="https://github.com/leighflagg">
-            <img src="https://cdn.discordapp.com/attachments/1041527929231917078/1074194703521689600/image0.jpg" alt="leighflagg"/>
-            <br />
-            <sub><b>Bryan Nguyen</b></sub>
-        </a>
     </td></tr>
 </table>
 
