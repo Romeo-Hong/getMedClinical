@@ -68,7 +68,7 @@ const config = {
             'https://github.com/'+process.env.ORG_NAME+'/'+process.env.PROJECT_NAME+'/edit/main/documentation/',
           // remarkPlugins: [require('mdx-mermaid')],
 
-         Forms:
+
 
         },
         // tutorials: {
