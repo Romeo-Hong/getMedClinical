@@ -26,9 +26,9 @@ Discuss what you need to develop this project. This includes background informat
     </td>
     <td align="center">
         <a href="https://github.com/leighflagg">
-            <img src="https://avatars.githubusercontent.com/u/77810293?v=4" width="100;" alt="leighflagg"/>
+            <img src="https://cdn.discordapp.com/attachments/1041527929231917078/1074190248571048026/51_7136_edit794.jpg" width="100;" alt="leighflagg"/>
             <br />
-            <sub><b>Null</b></sub>
+            <sub><b>Eric Zhang</b></sub>
         </a>
     </td></tr>
 </table>
