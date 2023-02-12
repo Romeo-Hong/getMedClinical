@@ -1,16 +1,19 @@
 <div align="center">
 
-# Project Name
+#GetMedClinical
 
 </div>
 
-## Background
+## Challenge:
 
-The background will contain a more detailed description of the product and a comparison to existing similar projects/products. A literature search should be conducted and the results listed. Proper citation of sources is required. If there are similar open-source products, you should state whether existing source will be used and to what extent. If there are similar closed-source/proprietary products, you should state how the proposed product will be similar and different.
+Topic: “Health and Wellness” 
 
-## Required Resources
+With the COVID-19 pandemic highlighting the importance of good health, this track could focus on developing solutions related to improving healthcare accessibility and affordability, promoting healthy lifestyles, and preventing the spread of disease.
 
-Discuss what you need to develop this project. This includes background information you will need to acquire, hardware resources, and software resources. If these are not part of the standard Computer Science Department lab resources, these must be identified early and discussed with the instructor.
+
+## GetMedClinical Solutions: 
+
+As we are looking into the future, we come across many new unknown diseases. We’ve seen many cases of these disease being spread more concurrently. In order to create an environment that helps prevent the spread of diseases and allowing patients who may not have immediate access to healthcare, we have developed a website that allows our doctors to create forms that can help patients to enter their medical issues, problems, & information. This website then helps identify problems that need to be addressed immediately versus the one’s that can wait. 
 
 ## Collaborators
 
@@ -41,6 +44,13 @@ Discuss what you need to develop this project. This includes background informat
             <img src="https://cdn.discordapp.com/attachments/1041527929231917078/1074194521270788177/IMG_5826.jpg" width="100;" alt="ApplebaumIan"/>
             <br />
             <sub><b>Romeo Hong</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ApplebaumIan">
+            <img src="https://cdn.discordapp.com/attachments/1041527929231917078/1074202014092890233/IMG_9384.png" width="100;" alt="ApplebaumIan"/>
+            <br />
+            <sub><b>Eric Yang</b></sub>
         </a>
     </td></tr>
 </table>
