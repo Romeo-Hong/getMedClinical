@@ -40,7 +40,7 @@ Discuss what you need to develop this project. This includes background informat
         <a href="https://github.com/ApplebaumIan">
             <img src="https://cdn.discordapp.com/attachments/1041527929231917078/1074194521270788177/IMG_5826.jpg" width="100;" alt="ApplebaumIan"/>
             <br />
-            <sub><b>Dumb Ass Perm</b></sub>
+            <sub><b>Romeo Hong</b></sub>
         </a>
     </td></tr>
 </table>
